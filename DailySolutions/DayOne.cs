@@ -39,5 +39,6 @@ public static class DayOne
         }
         
         Console.WriteLine(zeroCount);
+        // Answer: 6671
     }
 }
